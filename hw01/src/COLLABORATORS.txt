@@ -1,7 +1,7 @@
-(This is an example. Please edit accordingly.)
-
-Name: A. Student
-I spent 8 hours on this problem (1 on Prob. 1 and 3 on Prob. 2)
-I sought help from Prof. Huckleberry.
-We talked about the definition of Euclidean distance.
-
+You Hu
+This assignment took me approximately 8 hours, mostly learning how to use Python, such as a
+Priority Queue in Python.(2 HOURS ON 1 6 HOURS ON 2)
+I did not seek any help from TA, but I did discuss with Andrew Zhang for what the correct
+output should look like.
+The Priority Queue interface is very different from the Java interface I was used. Using PQ
+in the right way and creating a Object to store the distance and data took the most time
